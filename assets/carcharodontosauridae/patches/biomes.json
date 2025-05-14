@@ -1,0 +1,182 @@
+[
+ {
+    "file": "carcharodontosauridae:entities/land/carcharodontosauridae.json",
+    "op": "addmerge",
+    "path": "/attributesByType",
+    "side": "Server",
+    "value": {
+      "*-giganotosaurus-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+
+      "*-carcharodontosaurus-*": {
+        "biorealm": [
+          "atlantic neotropic",
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-mapusaurus-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+
+      "*-tyrannotitan-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+
+      "*-tameryraptor-*": {
+        "biorealm": [
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-veterupristisaurus-*": {
+        "biorealm": [
+          "eastern afrotropic",
+        ]
+      },
+
+      "*-ulughbegsaurus-*": {
+        "biorealm": [
+          "central palearctic",
+
+        ]
+      },
+
+      "*-siamraptor-*": {
+        "biorealm": [
+          "eastern palearctic",
+        ]
+      },
+
+      "*-shaochilong-*": {
+        "biorealm": [
+          "eastern palearctic",
+        ]
+      },
+
+      "*-concavenator-*": {
+        "biorealm": [
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-lusovenator-*": {
+        "biorealm": [
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-lajasvenator-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+    },
+    "dependsOn": [
+      {
+        "modid": "biomes"
+      }
+    ]
+  },
+  {
+    "file": "carcharodontosauridae:entities/land/nest.json",
+    "op": "addmerge",
+    "path": "/attributesByType",
+    "side": "Server",
+    "value": {
+      "*-giganotosaurus-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+
+      "*-carcharodontosaurus-*": {
+        "biorealm": [
+          "atlantic neotropic",
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-mapusaurus-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+
+      "*-tyrannotitan-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+
+      "*-tameryraptor-*": {
+        "biorealm": [
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-veterupristisaurus-*": {
+        "biorealm": [
+          "eastern afrotropic",
+        ]
+      },
+
+      "*-ulughbegsaurus-*": {
+        "biorealm": [
+          "central palearctic",
+
+        ]
+      },
+
+      "*-siamraptor-*": {
+        "biorealm": [
+          "eastern palearctic",
+        ]
+      },
+
+      "*-shaochilong-*": {
+        "biorealm": [
+          "eastern palearctic",
+        ]
+      },
+
+      "*-concavenator-*": {
+        "biorealm": [
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-lusovenator-*": {
+        "biorealm": [
+          "atlantic palearctic",
+        ]
+      },
+
+      "*-lajasvenator-*": {
+        "biorealm": [
+          "pacific neotropic",
+          "atlantic neotropic",
+        ]
+      },
+    },
+    "dependsOn": [
+      {
+        "modid": "biomes"
+      }
+    ]
+  },
+]

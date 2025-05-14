@@ -1,0 +1,95 @@
+﻿{
+  "code": "creature",
+  "class": "ItemCreature",
+  "maxstacksize": 64,
+  "variantgroups": [
+    {
+      "code": "type",
+      "states": [ 
+		"carcharodontosauridae-giganotosaurus-adult-male","carcharodontosauridae-giganotosaurus-adult-female", "carcharodontosauridae-giganotosaurus-baby-male", "carcharodontosauridae-giganotosaurus-baby-female","carcharodontosauridae-giganotosaurus-nest-empty","carcharodontosauridae-giganotosaurus-nest-incubating","carcharodontosauridae-giganotosaurus-nest-mature",
+		"carcharodontosauridae-carcharodontosaurus-adult-male","carcharodontosauridae-carcharodontosaurus-adult-female", "carcharodontosauridae-carcharodontosaurus-baby-male", "carcharodontosauridae-carcharodontosaurus-baby-female","carcharodontosauridae-carcharodontosaurus-nest-empty","carcharodontosauridae-carcharodontosaurus-nest-incubating","carcharodontosauridae-carcharodontosaurus-nest-mature",
+		"carcharodontosauridae-mapusaurus-adult-male","carcharodontosauridae-mapusaurus-adult-female", "carcharodontosauridae-mapusaurus-baby-male", "carcharodontosauridae-mapusaurus-baby-female","carcharodontosauridae-mapusaurus-nest-empty","carcharodontosauridae-mapusaurus-nest-incubating","carcharodontosauridae-mapusaurus-nest-mature",
+		"carcharodontosauridae-tyrannotitan-adult-male","carcharodontosauridae-tyrannotitan-adult-female", "carcharodontosauridae-tyrannotitan-baby-male", "carcharodontosauridae-tyrannotitan-baby-female","carcharodontosauridae-tyrannotitan-nest-empty","carcharodontosauridae-tyrannotitan-nest-incubating","carcharodontosauridae-tyrannotitan-nest-mature",
+		"carcharodontosauridae-tameryraptor-adult-male","carcharodontosauridae-tameryraptor-adult-female", "carcharodontosauridae-tameryraptor-baby-male", "carcharodontosauridae-tameryraptor-baby-female","carcharodontosauridae-tameryraptor-nest-empty","carcharodontosauridae-tameryraptor-nest-incubating","carcharodontosauridae-tameryraptor-nest-mature",
+		"carcharodontosauridae-veterupristisaurus-adult-male","carcharodontosauridae-veterupristisaurus-adult-female", "carcharodontosauridae-veterupristisaurus-baby-male", "carcharodontosauridae-veterupristisaurus-baby-female","carcharodontosauridae-veterupristisaurus-nest-empty","carcharodontosauridae-veterupristisaurus-nest-incubating","carcharodontosauridae-veterupristisaurus-nest-mature",
+		"carcharodontosauridae-ulughbegsaurus-adult-male","carcharodontosauridae-ulughbegsaurus-adult-female", "carcharodontosauridae-ulughbegsaurus-baby-male", "carcharodontosauridae-ulughbegsaurus-baby-female","carcharodontosauridae-ulughbegsaurus-nest-empty","carcharodontosauridae-ulughbegsaurus-nest-incubating","carcharodontosauridae-ulughbegsaurus-nest-mature",
+		"carcharodontosauridae-siamraptor-adult-male","carcharodontosauridae-siamraptor-adult-female", "carcharodontosauridae-siamraptor-baby-male", "carcharodontosauridae-siamraptor-baby-female","carcharodontosauridae-siamraptor-nest-empty","carcharodontosauridae-siamraptor-nest-incubating","carcharodontosauridae-siamraptor-nest-mature",
+		"carcharodontosauridae-shaochilong-adult-male","carcharodontosauridae-shaochilong-adult-female", "carcharodontosauridae-shaochilong-baby-male", "carcharodontosauridae-shaochilong-baby-female","carcharodontosauridae-shaochilong-nest-empty","carcharodontosauridae-shaochilong-nest-incubating","carcharodontosauridae-shaochilong-nest-mature",
+		"carcharodontosauridae-concavenator-adult-male","carcharodontosauridae-concavenator-adult-female", "carcharodontosauridae-concavenator-baby-male", "carcharodontosauridae-concavenator-baby-female","carcharodontosauridae-concavenator-nest-empty","carcharodontosauridae-concavenator-nest-incubating","carcharodontosauridae-concavenator-nest-mature",
+		"carcharodontosauridae-lusovenator-adult-male","carcharodontosauridae-lusovenator-adult-female", "carcharodontosauridae-lusovenator-baby-male", "carcharodontosauridae-lusovenator-baby-female","carcharodontosauridae-lusovenator-nest-empty","carcharodontosauridae-lusovenator-nest-incubating","carcharodontosauridae-lusovenator-nest-mature",
+		"carcharodontosauridae-lajasvenator-adult-male","carcharodontosauridae-lajasvenator-adult-female", "carcharodontosauridae-lajasvenator-baby-male", "carcharodontosauridae-lajasvenator-baby-female","carcharodontosauridae-lajasvenator-nest-empty","carcharodontosauridae-lajasvenator-nest-incubating","carcharodontosauridae-lajasvenator-nest-mature",
+
+
+	]
+ }
+  ],
+  "shapeByType": {
+	"*-giganotosaurus-adult-*": {"base": "entity/land/carcharodontosauridae/giganotosaurus/adult"}, "*-giganotosaurus-baby-*": {"base": "entity/land/carcharodontosauridae/giganotosaurus/baby"},
+	"*-carcharodontosaurus-adult-*": {"base": "entity/land/carcharodontosauridae/carcharodontosaurus/adult"}, "*-carcharodontosaurus-baby-*": {"base": "entity/land/carcharodontosauridae/carcharodontosaurus/baby"},
+	"*-mapusaurus-adult-*": {"base": "entity/land/carcharodontosauridae/mapusaurus/adult"}, "*-mapusaurus-baby-*": {"base": "entity/land/carcharodontosauridae/mapusaurus/baby"},
+	"*-tyrannotitan-adult-*": {"base": "entity/land/carcharodontosauridae/tyrannotitan/adult"}, "*-tyrannotitan-baby-*": {"base": "entity/land/carcharodontosauridae/tyrannotitan/baby"},
+	"*-tameryraptor-adult-*": {"base": "entity/land/carcharodontosauridae/tameryraptor/adult"}, "*-tameryraptor-baby-*": {"base": "entity/land/carcharodontosauridae/tameryraptor/baby"},
+	"*-veterupristisaurus-adult-*": {"base": "entity/land/carcharodontosauridae/veterupristisaurus/adult"}, "*-veterupristisaurus-baby-*": {"base": "entity/land/carcharodontosauridae/veterupristisaurus/baby"},
+	"*-ulughbegsaurus-adult-*": {"base": "entity/land/carcharodontosauridae/ulughbegsaurus/adult"}, "*-ulughbegsaurus-baby-*": {"base": "entity/land/carcharodontosauridae/ulughbegsaurus/baby"},
+	"*-siamraptor-adult-*": {"base": "entity/land/carcharodontosauridae/siamraptor/adult"}, "*-siamraptor-baby-*": {"base": "entity/land/carcharodontosauridae/siamraptor/baby"},
+	"*-shaochilong-adult-*": {"base": "entity/land/carcharodontosauridae/shaochilong/adult"}, "*-shaochilong-baby-*": {"base": "entity/land/carcharodontosauridae/shaochilong/baby"},
+	"*-concavenator-adult-*": {"base": "entity/land/carcharodontosauridae/concavenator/adult"}, "*-concavenator-baby-*": {"base": "entity/land/carcharodontosauridae/concavenator/baby"},
+	"*-lusovenator-adult-*": {"base": "entity/land/carcharodontosauridae/lusovenator/adult"}, "*-lusovenator-baby-*": {"base": "entity/land/carcharodontosauridae/lusovenator/baby"},
+	"*-lajasvenator-adult-*": {"base": "entity/land/carcharodontosauridae/lajasvenator/adult"}, "*-lajasvenator-baby-*": {"base": "entity/land/carcharodontosauridae/lajasvenator/baby"},
+	"*-nest-*":{"base": "entity/land/nest"},"*-nest-empty":{"base": "entity/land/nest-empty"},
+  },
+  "textureByType": { 
+	"*-giganotosaurus-adult-*":{"base": "entity/giganotosaurus-adult"},"*-giganotosaurus-baby-*":{"base": "entity/giganotosaurus-adult"},
+	"*-carcharodontosaurus-adult-*":{"base": "entity/carcharodontosaurus-adult"},"*-carcharodontosaurus-baby-*":{"base": "entity/carcharodontosaurus-adult"},
+	"*-mapusaurus-adult-*":{"base": "entity/mapusaurus-adult"},"*-mapusaurus-baby-*":{"base": "entity/mapusaurus-adult"},
+	"*-tyrannotitan-adult-*":{"base": "entity/tyrannotitan-adult"},"*-tyrannotitan-baby-*":{"base": "entity/tyrannotitan-adult"},
+	"*-tameryraptor-adult-*":{"base": "entity/tameryraptor-adult"},"*-tameryraptor-baby-*":{"base": "entity/tameryraptor-adult"},
+	"*-veterupristisaurus-adult-*":{"base": "entity/veterupristisaurus-adult"},"*-veterupristisaurus-baby-*":{"base": "entity/veterupristisaurus-adult"},
+	"*-ulughbegsaurus-adult-*":{"base": "entity/ulughbegsaurus-adult"},"*-ulughbegsaurus-baby-*":{"base": "entity/ulughbegsaurus-adult"},
+	"*-siamraptor-adult-*":{"base": "entity/siamraptor-adult"},"*-siamraptor-baby-*":{"base": "entity/siamraptor-adult"},
+	"*-shaochilong-adult-*":{"base": "entity/shaochilong-adult"},"*-shaochilong-baby-*":{"base": "entity/shaochilong-adult"},
+	"*-concavenator-adult-*":{"base": "entity/concavenator-adult"},"*-concavenator-baby-*":{"base": "entity/concavenator-adult"},
+	"*-lusovenator-adult-*":{"base": "entity/lusovenator-adult"},"*-lusovenator-baby-*":{"base": "entity/lusovenator-adult"},
+	"*-lajasvenator-adult-*":{"base": "entity/lajasvenator-adult"},"*-lajasvenator-baby-*":{"base": "entity/lajasvenator-adult"},
+  },
+  "creativeinventory": { "general": ["*"], "items": ["*"], "creatures": ["*"] },
+	"materialDensity": 600,
+	"guiTransformByType": {
+		"*-baby-*": {
+			"rotate": true,
+			"translation": { "x": -20, "y": -15, "z": 0 },
+			"rotation": { "x": -11, "y": -52, "z": -180 },
+			"origin": { "x": 1.5, "y": 1.5, "z": 1.5 },
+			"scale": 0.7
+		},
+		"creature-carcharodontosauridae-*": {
+			"rotate": true,
+			"translation": { "x": -16, "y": 0, "z": -5 },
+			"rotation": { "x": -11, "y": -52, "z": -180 },
+			"origin": { "x": 1.5, "y": 1.5, "z": 1.5 },
+			"scale": 0.3
+		},
+	},
+
+	"tpHandTransformByType": {
+		"*-baby-*": {
+			"translation": { "x": -0.51, "y": -0.2, "z": -0.7 },
+			"rotation": { "x": 53, "y": -165, "z": 77 },
+			"origin": { "x": 0, "y": 0, "z": 0 },
+			"scale": 0.25
+		},
+		"creature-carcharodontosauridae-*": {
+			"translation": { "x": -2.5, "y": -4.6, "z": -2.4 },
+			"rotation": { "x": 2, "y": -180, "z": 23 },
+			"scale": 0.15
+		},
+	},
+
+	"fpHandTransformByType": {
+		"creature-carcharodontosauridae-*": {
+			"translation": { "x": 0.2, "y": 0, "z": 0 },
+			"rotation": { "x": -8, "y": -63, "z": -7 }
+		}
+	}
+}
+

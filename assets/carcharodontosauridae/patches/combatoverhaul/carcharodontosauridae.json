@@ -1,0 +1,74 @@
+[
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "file": "carcharodontosauridae:entities/land/carcharodontosauridae",
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": {
+      "code": "CombatOverhaul:EntityColliders",
+      "elements": {
+        "Torso": ["Neck","Neck2", "Torso", "Body", "Tail Main", "Tail", "Tail 1", "Tail 2","Tail 3","Tail 4", "Tail tip"],
+        "Head": ["Head", "Top Jar", "Low Jar","Cheek", "Jaw Line", "Dome","Snout", "Lowerlip","Nose"],
+        "Arm": ["ArmR","ArmL","WristL","WristR"],
+        "Leg": ["LegL", "ThighL", "ChinL","LegR", "ThighR", "ChinR", "Cube5","Cube57"],
+        "Critical": ["EyeL", "EyeR","Brain","Heart","Lungs"],
+        "Resistant": []
+      },
+      "defaultPenetrationResistance": 6,
+    }
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "file": "carcharodontosauridae:entities/land/carcharodontosauridae",
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "CombatOverhaul:EntityColliders",
+      "elements": {
+        "Torso": ["Neck","Neck2", "Torso", "Body", "Tail Main", "Tail", "Tail 1", "Tail 2","Tail 3","Tail 4", "Tail tip"],
+        "Head": ["Head", "Top Jar", "Low Jar","Cheek", "Jaw Line", "Dome","Snout", "Lowerlip","Nose"],
+        "Arm": ["ArmR","ArmL","WristL","WristR"],
+        "Leg": ["LegL", "ThighL", "ChinL","LegR", "ThighR", "ChinR", "Cube5","Cube57"],
+        "Critical": ["EyeL", "EyeR","Brain","Heart","Lungs"],
+        "Resistant": []
+      },
+      "defaultPenetrationResistance": 6,
+    }
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "file": "carcharodontosauridae:entities/land/carcharodontosauridae",
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "CombatOverhaul:EntityDamageModel",
+      "damageModel": {
+        "TorsoDamageMultiplier": 1,
+        "LimbsDamageMultiplier": 0.75,
+        "HeadDamageMultiplier": 3,
+        "CriticalDamageMultiplier": 7,
+        "DefaultResists": {"BluntAttack": 6, "SlashingAttack": 4, "PiercingAttack": 0}
+      }
+    }
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "file": "carcharodontosauridae:entities/land/carcharodontosauridae",
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": {
+      "code": "CombatOverhaul:EntityDamageModel",
+      "damageModel": {
+        "TorsoDamageMultiplier": 1,
+        "LimbsDamageMultiplier": 0.75,
+        "HeadDamageMultiplier": 3,
+        "CriticalDamageMultiplier": 7,
+        "DefaultResists": {"BluntAttack": 6, "SlashingAttack": 4, "PiercingAttack": 0}
+      }
+    }
+  }
+]

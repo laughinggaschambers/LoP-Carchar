@@ -1,0 +1,9 @@
+{
+  "type": "content",
+  "modid": "carcharodontosauridae",
+  "name": "Legacy of the Phanerozoic: Sharp Tooth",
+  "authors": [ "laughinggas" ],
+  "description": "Adds severals carcharodontosaurids to Vintage Story",
+  "version": "1.0.0",
+  "side": "Universal"
+}

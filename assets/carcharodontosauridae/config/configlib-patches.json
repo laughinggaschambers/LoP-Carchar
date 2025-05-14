@@ -1,0 +1,177 @@
+{
+  "version": 2,
+  "patches": {
+    "float": {
+      "carcharodontosauridae:entities/land/carcharodontosauridae.json": {
+       "/server/behaviors/11/drops/0/quantityByType/*-giganotosaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-giganotosaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-giganotosaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-giganotosaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-giganotosaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-giganotosaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-giganotosaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-giganotosaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-giganotosaurus-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-carcharodontosaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-carcharodontosaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-carcharodontosaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-carcharodontosaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-carcharodontosaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-carcharodontosaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-carcharodontosaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-carcharodontosaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-carcharodontosaurus-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-mapusaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-mapusaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-mapusaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-mapusaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-mapusaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-mapusaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-mapusaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-mapusaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-mapusaurus-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-tyrannotitan-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-tyrannotitan-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-tyrannotitan-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-tyrannotitan-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tyrannotitan-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tyrannotitan-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tyrannotitan-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tyrannotitan-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-tyrannotitan-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-tameryraptor-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-tameryraptor-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-tameryraptor-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-tameryraptor-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tameryraptor-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tameryraptor-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tameryraptor-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-tameryraptor-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-tameryraptor-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-veterupristisaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-veterupristisaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-veterupristisaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-veterupristisaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-veterupristisaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-veterupristisaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-veterupristisaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-veterupristisaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-veterupristisaurus-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-ulughbegsaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-ulughbegsaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-ulughbegsaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-ulughbegsaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-ulughbegsaurus-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-ulughbegsaurus-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-ulughbegsaurus-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-ulughbegsaurus-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-ulughbegsaurus-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-siamraptor-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-siamraptor-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-siamraptor-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-siamraptor-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-siamraptor-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-siamraptor-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-siamraptor-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-siamraptor-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-siamraptor-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-shaochilong-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-shaochilong-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-shaochilong-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-shaochilong-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-shaochilong-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-shaochilong-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-shaochilong-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-shaochilong-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-shaochilong-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-concavenator-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-concavenator-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-concavenator-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-concavenator-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-concavenator-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-concavenator-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-concavenator-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-concavenator-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-concavenator-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-lusovenator-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-lusovenator-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-lusovenator-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-lusovenator-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lusovenator-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lusovenator-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lusovenator-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lusovenator-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-lusovenator-adult-*/avg": "value * drop_multiplier",
+
+        "/server/behaviors/11/drops/0/quantityByType/*-lajasvenator-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-lajasvenator-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-lajasvenator-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/0/quantityByType/*-lajasvenator-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lajasvenator-adult-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lajasvenator-adult-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lajasvenator-baby-*/avg": "value * drop_multiplier",
+        "/server/behaviors/11/drops/1/quantityByType/*-lajasvenator-baby-*/var": "value * drop_multiplier",
+        "/server/behaviors/11/drops/2/quantityByType/*-lajasvenator-adult-*/avg": "value * drop_multiplier",
+
+        "/server/spawnconditions/worldgen/triesPerChunk/avg": "worlgen",
+        "/server/spawnconditions/runtime/chanceByType/*-adult-*": "runtime",
+      }
+    },
+    "boolean":{
+      "carcharodontosauridae:entities/land/carcharodontosauridae.json": {
+        "/server/behaviors/0/enabledByType/*": "ridable",
+        "/client/behaviors/0/enabledByType/*": "ridable",
+        }
+    }
+  },
+  "settings":[
+    {
+      "code": "drop_multiplier",
+      "type": "float",
+      "ingui": "setting-drop-multiplier",
+      "default": 1.0,
+      "range": {
+        "min": 0.00,
+        "max": 5.0,
+      }
+    },
+    {
+      "code": "worlgen",
+      "type": "float",
+      "ingui": "setting-worldgen-spawnrate",
+      "default": 0.001,
+      "range": {
+        "min": 0.00,
+        "max": 1.0,
+        "step":0.0001
+      }
+    },
+    {
+      "code": "runtime",
+      "type": "float",
+      "ingui": "setting-runtime-spawnrate",
+      "default": 0.00001,
+      "range": {
+        "min": 0.00,
+        "max": 1.0,
+        "step":0.00001
+      }
+    },
+    {
+      "code": "ridable",
+      "type": "boolean",
+      "ingui": "setting-ridable",
+      "default": true,
+    },
+  ]
+}
