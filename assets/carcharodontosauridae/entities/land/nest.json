@@ -196,157 +196,157 @@
 			"*-giganotosaurus-nest-incubating": {
                     "climate": {
                         "minTemp": 20,
-                        "maxTemp": 30,
-                        "minRain": 0.3,
-                        "maxRain": 0.6,
-                        "minForestOrShrubs": 0.4,
-                        "maxForest": 0.7,
-                        "maxShrubs": 0.6,
-                        "minY": 1.0,
-                        "maxY": 1.2
+						"maxTemp": 30,
+						"minRain": 0.3,
+						"maxRain": 1,
+						"minForestOrShrubs": 0.4,
+						"maxForest": 0.7,
+						"maxShrubs": 1,
+						"minY": 0.9,
+						"maxY": 1.5
                     },
                 },
 			"*-carcharodontosaurus-nest-incubating": {
 							"climate": {
 								"minTemp": 25,
 								"maxTemp": 35,
-								"minRain": 0.2,
-								"maxRain": 0.5,
-								"minForestOrShrubs": 0.3,
+								"minRain": 0.1,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.2,
 								"maxForest": 0.5,
-								"maxShrubs": 0.4,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.4
 							},
 						},
 			"*-mapusaurus-nest-incubating": {
 							"climate": {
 								"minTemp": 20,
 								"maxTemp": 30,
-								"minRain": 0.3,
-								"maxRain": 0.6,
-								"minForestOrShrubs": 0.4,
+								"minRain": 0.2,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.3,
 								"maxForest": 0.7,
-								"maxShrubs": 0.6,
-								"minY": 1.0,
-								"maxY": 1.2
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.5
 							},
 						},
 			"*-tyrannotitan-nest-incubating": {
 							"climate": {
 								"minTemp": 20,
 								"maxTemp": 30,
-								"minRain": 0.2,
-								"maxRain": 0.5,
-								"minForestOrShrubs": 0.3,
+								"minRain": 0.1,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.2,
 								"maxForest": 0.6,
-								"maxShrubs": 0.5,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.4
 							},
 						},
 			"*-tameryraptor-nest-incubating": {
 							"climate": {
 								"minTemp": 25,
 								"maxTemp": 35,
-								"minRain": 0.3,
-								"maxRain": 0.6,
-								"minForestOrShrubs": 0.5,
+								"minRain": 0.2,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.4,
 								"maxForest": 0.8,
-								"maxShrubs": 0.7,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.4
 							},
 						},
 			"*-veterupristisaurus-nest-incubating": {
 							"climate": {
 								"minTemp": 25,
 								"maxTemp": 35,
-								"minRain": 0.3,
-								"maxRain": 0.6,
-								"minForestOrShrubs": 0.5,
+								"minRain": 0.2,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.4,
 								"maxForest": 0.8,
-								"maxShrubs": 0.7,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.5
 							},
 						},
 			"*-ulughbegsaurus-nest-incubating": {
 							"climate": {
 								"minTemp": 20,
 								"maxTemp": 30,
-								"minRain": 0.3,
-								"maxRain": 0.6,
-								"minForestOrShrubs": 0.4,
+								"minRain": 0.2,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.3,
 								"maxForest": 0.7,
-								"maxShrubs": 0.6,
-								"minY": 1.0,
-								"maxY": 1.2
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.5
 							},
 						},
 			"*-siamraptor-nest-incubating": {
 							"climate": {
 								"minTemp": 25,
 								"maxTemp": 35,
-								"minRain": 0.4,
-								"maxRain": 0.7,
-								"minForestOrShrubs": 0.6,
+								"minRain": 0.3,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.5,
 								"maxForest": 0.9,
-								"maxShrubs": 0.8,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.4
 							},
 						},
 			"*-shaochilong-nest-incubating": {
 							"climate": {
 								"minTemp": 20,
 								"maxTemp": 30,
-								"minRain": 0.3,
-								"maxRain": 0.6,
-								"minForestOrShrubs": 0.4,
+								"minRain": 0.2,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.3,
 								"maxForest": 0.7,
-								"maxShrubs": 0.6,
-								"minY": 1.0,
-								"maxY": 1.2
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.5
 							},
 						},
 			"*-concavenator-nest-incubating": {
 							"climate": {
 								"minTemp": 15,
 								"maxTemp": 25,
-								"minRain": 0.4,
-								"maxRain": 0.7,
-								"minForestOrShrubs": 0.5,
+								"minRain": 0.3,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.4,
 								"maxForest": 0.8,
-								"maxShrubs": 0.7,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.4
 							},
 						},
 			"*-lusovenator-nest-incubating": {
 							"climate": {
 								"minTemp": 15,
 								"maxTemp": 25,
-								"minRain": 0.4,
-								"maxRain": 0.7,
-								"minForestOrShrubs": 0.5,
+								"minRain": 0.3,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.4,
 								"maxForest": 0.8,
-								"maxShrubs": 0.7,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.4
 							},
 						},
 			"*-lajasvenator-nest-incubating": {
 							"climate": {
 								"minTemp": 15,
 								"maxTemp": 25,
-								"minRain": 0.4,
-								"maxRain": 0.7,
-								"minForestOrShrubs": 0.5,
+								"minRain": 0.3,
+								"maxRain": 1,
+								"minForestOrShrubs": 0.4,
 								"maxForest": 0.8,
-								"maxShrubs": 0.7,
-								"minY": 1.0,
-								"maxY": 1.1
+								"maxShrubs": 1,
+								"minY": 0.9,
+								"maxY": 1.4
 							},
 						},
 
