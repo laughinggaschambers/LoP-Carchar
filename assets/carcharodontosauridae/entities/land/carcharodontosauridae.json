@@ -947,7 +947,7 @@
 							"*-baby-*":2.5,
 							"*-adult-*":2,
 						},
-						"whenInEmotionState": "aggressivearoundentities|aggressiveondamage|fleeondamage",
+						"whenInEmotionState": "aggressiveondamage|fleeondamage",
 						"leapAtTargetByType":{
 							"*-baby-*":true,
 							"*-adult-*":false,
