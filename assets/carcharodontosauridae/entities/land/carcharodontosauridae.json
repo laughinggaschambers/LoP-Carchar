@@ -603,7 +603,7 @@
 
 									"lure-*", "hitch",
 
-									"ceratopsidae-*","spinosauridae-*","ankylosauria-*", "macronaria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*","pachycephalosauria-*","mosasauridae-*","tyrannosauridae-*","stegosauria-*","therizinosauridae-*",
+									"ceratopsidae-*","spinosauridae-*","ankylosauria-*", "macronaria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*","pachycephalosauria-*","mosasauridae-*","tyrannosauridae-*","stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
 									"cervidae-*", "elephantidae-*", "dinornithidae-*", "pantherinae-*", "caninae-*", "cervinae-*", "bovinae-*", "felinae-*", "rhinocerotidae-*", "machairodontinae-*", "vombatidae-*", "ursidae-*", "capreolinae-*",
 									"capercaillie-*","goldenpheasant-*","pheasant-*", "wildturkey-*", "bison-*", "cockatrice-*", "direwolf-*", "faunling-*", "foal-*", "geodecrab-*", "giraffe", "golem-*", "hellboar-*", "horse-*", "ostrich-*", "scorpion-*", "spider-*", "tame-*", "toad-*", "chelonoidis-*"
@@ -614,7 +614,7 @@
 
 									"lure-*",
 
-									"ceratopsidae-*","spinosauridae-*","ankylosauria-*", "macronaria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*","pachycephalosauria-*","mosasauridae-*","carcharodontosauridae-*","stegosauria-*","therizinosauridae-*",
+									"ceratopsidae-*","spinosauridae-*","ankylosauria-*", "macronaria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*","pachycephalosauria-*","mosasauridae-*","carcharodontosauridae-*","stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
 									"cervidae-*", "cervinae-*", "bovinae-*", "capreolinae-*", "dinornithidae-*",
 									"capercaillie-*","goldenpheasant-*","pheasant-*", "wildturkey-*", "bison-*", "cockatrice-*", "faunling-*", "foal-*", "geodecrab-*", "ostrich-*", "scorpion-*", "spider-*", "tame-*", "toad-*", "chelonoidis-*",
@@ -703,6 +703,8 @@
 
 											"therizinosauridae-therizinosaurus-baby-*","therizinosauridae-segnosaurus-baby-*","therizinosauridae-suzhousaurus-baby-*","therizinosauridae-nothronychus-baby-*","therizinosauridae-alxasaurus-baby-*","therizinosauridae-falcarius-baby-*","therizinosauridae-erliansaurus-baby-*","therizinosauridae-jianchangosaurus-baby-*","therizinosauridae-beipiaosaurus-baby-*","therizinosauridae-neimongosaurus-baby-*",
 
+											"ornithomimosauria-gallimimus-adult-*","ornithomimosauria-dzharacursor-adult-*","ornithomimosauria-garudimimus-adult-*","ornithomimosauria-sinornithomimus-adult-*","ornithomimosauria-struthiomimus-adult-*","ornithomimosauria-ornithomimus-adult-*","ornithomimosauria-dromiceiomimus-adult-*","ornithomimosauria-kinnareemimus-adult-*","ornithomimosauria-tyrannomimus-adult-*","ornithomimosauria-harpymimus-adult-*","ornithomimosauria-pelecanimimus-adult-*","ornithomimosauria-nqwebasaurus-adult-*",
+											"ornithomimosauria-deinocheirus-baby-*","ornithomimosauria-paraxenisaurus-baby-*","ornithomimosauria-gallimimus-baby-*","ornithomimosauria-dzharacursor-baby-*","ornithomimosauria-garudimimus-baby-*","ornithomimosauria-sinornithomimus-baby-*","ornithomimosauria-struthiomimus-baby-*","ornithomimosauria-ornithomimus-baby-*","ornithomimosauria-dromiceiomimus-baby-*","ornithomimosauria-kinnareemimus-baby-*","ornithomimosauria-tyrannomimus-baby-*","ornithomimosauria-harpymimus-baby-*","ornithomimosauria-pelecanimimus-baby-*","ornithomimosauria-nqwebasaurus-baby-*",
 
 
 
@@ -734,6 +736,9 @@
 
 											"therizinosauridae-therizinosaurus-baby-*","therizinosauridae-segnosaurus-baby-*","therizinosauridae-suzhousaurus-baby-*","therizinosauridae-nothronychus-baby-*","therizinosauridae-alxasaurus-baby-*","therizinosauridae-falcarius-baby-*","therizinosauridae-erliansaurus-baby-*","therizinosauridae-jianchangosaurus-baby-*","therizinosauridae-beipiaosaurus-baby-*","therizinosauridae-neimongosaurus-baby-*",
 
+											"ornithomimosauria-gallimimus-adult-*","ornithomimosauria-dzharacursor-adult-*","ornithomimosauria-garudimimus-adult-*","ornithomimosauria-sinornithomimus-adult-*","ornithomimosauria-struthiomimus-adult-*","ornithomimosauria-ornithomimus-adult-*","ornithomimosauria-dromiceiomimus-adult-*","ornithomimosauria-kinnareemimus-adult-*","ornithomimosauria-tyrannomimus-adult-*","ornithomimosauria-harpymimus-adult-*","ornithomimosauria-pelecanimimus-adult-*","ornithomimosauria-nqwebasaurus-adult-*",
+											"ornithomimosauria-deinocheirus-baby-*","ornithomimosauria-paraxenisaurus-baby-*","ornithomimosauria-gallimimus-baby-*","ornithomimosauria-dzharacursor-baby-*","ornithomimosauria-garudimimus-baby-*","ornithomimosauria-sinornithomimus-baby-*","ornithomimosauria-struthiomimus-baby-*","ornithomimosauria-ornithomimus-baby-*","ornithomimosauria-dromiceiomimus-baby-*","ornithomimosauria-kinnareemimus-baby-*","ornithomimosauria-tyrannomimus-baby-*","ornithomimosauria-harpymimus-baby-*","ornithomimosauria-pelecanimimus-baby-*","ornithomimosauria-nqwebasaurus-baby-*",
+
 
 
 											"cervidae-*", "cervinae-*", "bovinae-*", "capreolinae-*", "dinornithidae-*",
@@ -742,7 +747,7 @@
 							"*-adult-*":[
 											"player", "bear-*","chicken-*", "deer-*","drifter-*", "fox-*", "gazelle-*", "goat-*","hare-*","hyena-*", "moose-*", "pig-*", "raccoon-*", "sheep-*","tameddeer-*", "wolf-*",
 
-											"ceratopsidae-*", "spinosauridae-*","ankylosauria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*", "pachycephalosauria-*","tyrannosauridae-*","stegosauria-*","therizinosauridae-*",
+											"ceratopsidae-*", "spinosauridae-*","ankylosauria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*", "pachycephalosauria-*","tyrannosauridae-*","stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
 											"macronaria-argentinosaurus-baby-*","macronaria-patagotitan-baby-*","macronaria-dreadnoughtus-baby-*","macronaria-futalognkosaurus-baby-*","macronaria-brachiosaurus-baby-*","macronaria-giraffatitan-baby-*","macronaria-diamantinasaurus-baby-*","macronaria-europatitan-baby-*","macronaria-antarctosaurus-baby-*","macronaria-ruyangosaurus-baby-*","macronaria-camarasaurus-baby-*","macronaria-bruhathkayosaurus-baby-*","macronaria-malawisaurus-baby-*","macronaria-rapetosaurus-baby-*","macronaria-ampelosaurus-baby-*",
 
@@ -775,6 +780,7 @@
 
 											"therizinosauridae-therizinosaurus-baby-*","therizinosauridae-segnosaurus-baby-*","therizinosauridae-suzhousaurus-baby-*","therizinosauridae-nothronychus-baby-*","therizinosauridae-alxasaurus-baby-*","therizinosauridae-falcarius-baby-*","therizinosauridae-erliansaurus-baby-*","therizinosauridae-jianchangosaurus-baby-*","therizinosauridae-beipiaosaurus-baby-*","therizinosauridae-neimongosaurus-baby-*",
 
+											"ornithomimosauria-deinocheirus-baby-*","ornithomimosauria-paraxenisaurus-baby-*","ornithomimosauria-gallimimus-baby-*","ornithomimosauria-dzharacursor-baby-*","ornithomimosauria-garudimimus-baby-*","ornithomimosauria-sinornithomimus-baby-*","ornithomimosauria-struthiomimus-baby-*","ornithomimosauria-ornithomimus-baby-*","ornithomimosauria-dromiceiomimus-baby-*","ornithomimosauria-kinnareemimus-baby-*","ornithomimosauria-tyrannomimus-baby-*","ornithomimosauria-harpymimus-baby-*","ornithomimosauria-pelecanimimus-baby-*","ornithomimosauria-nqwebasaurus-baby-*",
 
 
 
@@ -838,7 +844,8 @@
 
 											"therizinosauridae-therizinosaurus-baby-*","therizinosauridae-segnosaurus-baby-*","therizinosauridae-suzhousaurus-baby-*","therizinosauridae-nothronychus-baby-*","therizinosauridae-alxasaurus-baby-*","therizinosauridae-falcarius-baby-*","therizinosauridae-erliansaurus-baby-*","therizinosauridae-jianchangosaurus-baby-*","therizinosauridae-beipiaosaurus-baby-*","therizinosauridae-neimongosaurus-baby-*",
 
-
+											"ornithomimosauria-gallimimus-adult-*","ornithomimosauria-dzharacursor-adult-*","ornithomimosauria-garudimimus-adult-*","ornithomimosauria-sinornithomimus-adult-*","ornithomimosauria-struthiomimus-adult-*","ornithomimosauria-ornithomimus-adult-*","ornithomimosauria-dromiceiomimus-adult-*","ornithomimosauria-kinnareemimus-adult-*","ornithomimosauria-tyrannomimus-adult-*","ornithomimosauria-harpymimus-adult-*","ornithomimosauria-pelecanimimus-adult-*","ornithomimosauria-nqwebasaurus-adult-*",
+											"ornithomimosauria-deinocheirus-baby-*","ornithomimosauria-paraxenisaurus-baby-*","ornithomimosauria-gallimimus-baby-*","ornithomimosauria-dzharacursor-baby-*","ornithomimosauria-garudimimus-baby-*","ornithomimosauria-sinornithomimus-baby-*","ornithomimosauria-struthiomimus-baby-*","ornithomimosauria-ornithomimus-baby-*","ornithomimosauria-dromiceiomimus-baby-*","ornithomimosauria-kinnareemimus-baby-*","ornithomimosauria-tyrannomimus-baby-*","ornithomimosauria-harpymimus-baby-*","ornithomimosauria-pelecanimimus-baby-*","ornithomimosauria-nqwebasaurus-baby-*",
 
 
 											"cervidae-*", "cervinae-*", "bovinae-*", "capreolinae-*", "dinornithidae-*",
@@ -867,7 +874,8 @@
 
 											"therizinosauridae-therizinosaurus-baby-*","therizinosauridae-segnosaurus-baby-*","therizinosauridae-suzhousaurus-baby-*","therizinosauridae-nothronychus-baby-*","therizinosauridae-alxasaurus-baby-*","therizinosauridae-falcarius-baby-*","therizinosauridae-erliansaurus-baby-*","therizinosauridae-jianchangosaurus-baby-*","therizinosauridae-beipiaosaurus-baby-*","therizinosauridae-neimongosaurus-baby-*",
 
-
+											"ornithomimosauria-gallimimus-adult-*","ornithomimosauria-dzharacursor-adult-*","ornithomimosauria-garudimimus-adult-*","ornithomimosauria-sinornithomimus-adult-*","ornithomimosauria-struthiomimus-adult-*","ornithomimosauria-ornithomimus-adult-*","ornithomimosauria-dromiceiomimus-adult-*","ornithomimosauria-kinnareemimus-adult-*","ornithomimosauria-tyrannomimus-adult-*","ornithomimosauria-harpymimus-adult-*","ornithomimosauria-pelecanimimus-adult-*","ornithomimosauria-nqwebasaurus-adult-*",
+											"ornithomimosauria-deinocheirus-baby-*","ornithomimosauria-paraxenisaurus-baby-*","ornithomimosauria-gallimimus-baby-*","ornithomimosauria-dzharacursor-baby-*","ornithomimosauria-garudimimus-baby-*","ornithomimosauria-sinornithomimus-baby-*","ornithomimosauria-struthiomimus-baby-*","ornithomimosauria-ornithomimus-baby-*","ornithomimosauria-dromiceiomimus-baby-*","ornithomimosauria-kinnareemimus-baby-*","ornithomimosauria-tyrannomimus-baby-*","ornithomimosauria-harpymimus-baby-*","ornithomimosauria-pelecanimimus-baby-*","ornithomimosauria-nqwebasaurus-baby-*",
 
 
 											"cervidae-*", "cervinae-*", "bovinae-*", "capreolinae-*", "dinornithidae-*",
@@ -876,7 +884,7 @@
 							"*-adult-*":[
 											"player", "bear-*","chicken-*", "deer-*","drifter-*", "fox-*", "gazelle-*", "goat-*","hare-*","hyena-*", "moose-*", "pig-*", "raccoon-*", "sheep-*","tameddeer-*", "wolf-*",
 
-											"ceratopsidae-*", "spinosauridae-*","ankylosauria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*", "pachycephalosauria-*","tyrannosauridae-*","stegosauria-*","therizinosauridae-*",
+											"ceratopsidae-*", "spinosauridae-*","ankylosauria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*", "pachycephalosauria-*","tyrannosauridae-*","stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
 											"macronaria-argentinosaurus-baby-*","macronaria-patagotitan-baby-*","macronaria-dreadnoughtus-baby-*","macronaria-futalognkosaurus-baby-*","macronaria-brachiosaurus-baby-*","macronaria-giraffatitan-baby-*","macronaria-diamantinasaurus-baby-*","macronaria-europatitan-baby-*","macronaria-antarctosaurus-baby-*","macronaria-ruyangosaurus-baby-*","macronaria-camarasaurus-baby-*","macronaria-bruhathkayosaurus-baby-*","macronaria-malawisaurus-baby-*","macronaria-rapetosaurus-baby-*","macronaria-ampelosaurus-baby-*",
 
@@ -910,6 +918,7 @@
 
 											"therizinosauridae-therizinosaurus-baby-*","therizinosauridae-segnosaurus-baby-*","therizinosauridae-suzhousaurus-baby-*","therizinosauridae-nothronychus-baby-*","therizinosauridae-alxasaurus-baby-*","therizinosauridae-falcarius-baby-*","therizinosauridae-erliansaurus-baby-*","therizinosauridae-jianchangosaurus-baby-*","therizinosauridae-beipiaosaurus-baby-*","therizinosauridae-neimongosaurus-baby-*",
 
+											"ornithomimosauria-deinocheirus-baby-*","ornithomimosauria-paraxenisaurus-baby-*","ornithomimosauria-gallimimus-baby-*","ornithomimosauria-dzharacursor-baby-*","ornithomimosauria-garudimimus-baby-*","ornithomimosauria-sinornithomimus-baby-*","ornithomimosauria-struthiomimus-baby-*","ornithomimosauria-ornithomimus-baby-*","ornithomimosauria-dromiceiomimus-baby-*","ornithomimosauria-kinnareemimus-baby-*","ornithomimosauria-tyrannomimus-baby-*","ornithomimosauria-harpymimus-baby-*","ornithomimosauria-pelecanimimus-baby-*","ornithomimosauria-nqwebasaurus-baby-*",
 
 
 											"cervidae-*", "cervinae-*", "bovinae-*", "capreolinae-*", "dinornithidae-*",
@@ -974,7 +983,7 @@
 						"stopOnNearbyEntityCodes": ["player", "bear-*","chicken-*", "deer-*","drifter-*", "fox-*", "gazelle-*", "goat-*","hare-*","hyena-*", "moose-*", "pig-*", "raccoon-*", "sheep-*","tameddeer-*", "wolf-*",
 
                         "ceratopsidae-*", "spinosauridae-*","ankylosauria-*","macronaria-*","dromaeosauridae-*","hadrosauroidea-*", "abelisauridae-*","pachycephalosauria-*","mosasauridae-*","tyrannosauridae-*",
-						"stegosauria-*","therizinosauridae-*",
+						"stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
                         "cervidae-*", "elephantidae-*", "dinornithidae-*", "pantherinae-*", "caninae-*", "cervinae-*", "bovinae-*", "felinae-*", "rhinocerotidae-*", "machairodontinae-*", "vombatidae-*", "ursidae-*", "capreolinae-*",
                         "capercaillie-*","goldenpheasant-*","pheasant-*", "wildturkey-*", "bison-*", "cockatrice-*", "direwolf-*", "faunling-*", "foal-*", "giraffe", "hellboar-*", "horse-*", "ostrich-*",  "tame-*",
@@ -1000,7 +1009,7 @@
                         "stopOnNearbyEntityCodes": ["player", "bear-*","chicken-*", "deer-*","drifter-*", "fox-*", "gazelle-*", "goat-*","hare-*","hyena-*", "moose-*", "pig-*", "raccoon-*", "sheep-*","tameddeer-*", "wolf-*",
 
                         "ceratopsidae-*", "spinosauridae-*","ankylosauria-*","macronaria-*","dromaeosauridae-*","hadrosauroidea-*","abelisauridae-*","pachycephalosauria-*","mosasauridae-*","tyrannosauridae-*",
-						"stegosauria-*","therizinosauridae-*",
+						"stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
                         "cervidae-*", "elephantidae-*", "dinornithidae-*", "pantherinae-*", "caninae-*", "cervinae-*", "bovinae-*", "felinae-*", "rhinocerotidae-*", "machairodontinae-*", "vombatidae-*", "ursidae-*", "capreolinae-*",
                         "capercaillie-*","goldenpheasant-*","pheasant-*", "wildturkey-*", "bison-*", "cockatrice-*", "direwolf-*", "faunling-*", "foal-*", "giraffe", "hellboar-*", "horse-*", "ostrich-*",  "tame-*",
@@ -1028,7 +1037,7 @@
                         ],
                         "stopOnNearbyEntityCodes": ["player", "bear-*","chicken-*", "deer-*","drifter-*", "fox-*", "gazelle-*", "goat-*","hare-*","hyena-*", "moose-*", "pig-*", "raccoon-*", "sheep-*","tameddeer-*", "wolf-*",
                         "ceratopsidae-*", "spinosauridae-*","ankylosauria-*","macronaria-*","dromaeosauridae-*","hadrosauroidea-*","abelisauridae-*","pachycephalosauria-*","mosasauridae-*","tyrannosauridae-*",
-						"stegosauria-*","therizinosauridae-*",
+						"stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
                         "cervidae-*", "elephantidae-*", "dinornithidae-*", "pantherinae-*", "caninae-*", "cervinae-*", "bovinae-*", "felinae-*", "rhinocerotidae-*", "machairodontinae-*", "vombatidae-*", "ursidae-*", "capreolinae-*",
                         "capercaillie-*","goldenpheasant-*","pheasant-*", "wildturkey-*", "bison-*", "cockatrice-*", "direwolf-*", "faunling-*", "foal-*", "giraffe", "hellboar-*", "horse-*", "ostrich-*",  "tame-*",
@@ -1098,7 +1107,7 @@
                         "entityCodes":["player", "bear-*","chicken-*", "deer-*","drifter-*", "fox-*", "gazelle-*", "goat-*","hare-*","hyena-*", "moose-*", "pig-*", "raccoon-*", "sheep-*","tameddeer-*", "wolf-*",
 
                         "ceratopsidae-*", "spinosauridae-*","ankylosauria-*","dromaeosauridae-*","hadrosauroidea-*","abelisauridae-*","pachycephalosauria-*","mosasauridae-*","tyrannosauridae-*",
-						"stegosauria-*","therizinosauridae-*",
+						"stegosauria-*","therizinosauridae-*","ornithomimosauria-*",
 
                         "cervidae-*", "elephantidae-*", "dinornithidae-*", "pantherinae-*", "caninae-*", "cervinae-*", "bovinae-*", "felinae-*", "rhinocerotidae-*", "machairodontinae-*", "vombatidae-*", "ursidae-*", "capreolinae-*",
                         "capercaillie-*","goldenpheasant-*","pheasant-*", "wildturkey-*", "bison-*", "cockatrice-*", "direwolf-*", "faunling-*", "foal-*", "geodecrab-*", "giraffe", "golem-*", "hellboar-*", "horse-*", "ostrich-*", "scorpion-*", "spider-*", "tame-*", "toad-*", "chelonoidis-*"
@@ -1187,6 +1196,8 @@
                         "stegosauria-stegosaurus-adult-*","stegosauria-dacentrurus-adult-*","stegosauria-wuerhosaurus-adult-*","stegosauria-hesperosaurus-adult-*","stegosauria-tuojiangosaurus-adult-*","stegosauria-alcovasaurus-adult-*","stegosauria-miragaia-adult-*","stegosauria-isaberrysaura-adult-*","stegosauria-kentrosaurus-adult-*","stegosauria-huayangosaurus-adult-*","stegosauria-gigantspinosaurus-adult-*","stegosauria-chungkingosaurus-adult-*",
 
                         "therizinosauridae-therizinosaurus-adult-*","therizinosauridae-segnosaurus-adult-*","therizinosauridae-suzhousaurus-adult-*","therizinosauridae-nothronychus-adult-*","therizinosauridae-alxasaurus-adult-*","therizinosauridae-falcarius-adult-*","therizinosauridae-erliansaurus-adult-*","therizinosauridae-jianchangosaurus-adult-*","therizinosauridae-beipiaosaurus-adult-*","therizinosauridae-neimongosaurus-adult-*",
+
+                        "ornithomimosauria-deinocheirus-adult-*","ornithomimosauria-paraxenisaurus-adult-*",
 
 
                         "elephantidae-*", "cervidae-*","pantherinae-*", "caninae-*", "cervinae-*", "bovinae-*", "felinae-*", "rhinocerotidae-*", "machairodontinae-*", "ursidae-*",
